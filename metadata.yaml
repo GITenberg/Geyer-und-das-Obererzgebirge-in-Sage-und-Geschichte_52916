@@ -1,0 +1,26 @@
+_repo: Geyer-und-das-Obererzgebirge-in-Sage-und-Geschichte_52916
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Lungwitz, Hermann
+    gutenberg_agent_id: '44463'
+    url: http://www.gutenberg.org/2009/agents/44463
+  - agent_name: Grohmann, Max
+    gutenberg_agent_id: '47113'
+    url: http://www.gutenberg.org/2009/agents/47113
+description: ''
+gutenberg_issued: '2016-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52916'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Geyer (Germany)'
+- !lcsh 'Erzgebirge (Czech Republic and Germany)'
+- GITenberg
+title: Geyer und das Obererzgebirge in Sage und Geschichte
+url: http://www.gutenberg.org/ebooks/52916
